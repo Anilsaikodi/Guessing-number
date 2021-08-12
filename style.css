@@ -1,0 +1,13 @@
+body{
+    background: rgb(0, 4, 211);
+    color:whitesmoke;
+    font-size: 1.5em;
+    text-align:center;
+    margin:100px auto;
+  }
+  button, input{
+    font-size: 1.25em;
+    text-align:center;
+    border-radius:10px;
+  }
+  
